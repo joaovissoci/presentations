@@ -7,6 +7,16 @@ autoscale: true
 
 ---
 
+# Roadmap
+
+1. Suicide scenario
+2. Determinants of suicide behavior
+3. Theoretical model for suicide and signs
+4. Suicide globally
+5. Prevention initiatives
+
+---
+
 # Global Suicide Scenario
 
 - 41,000 people die by suicide each year in the United States 
@@ -21,19 +31,6 @@ autoscale: true
 ---
 
 ![fit](us.png)
-
----
-
-# Global Suicide Scenario - [Map](http://gamapserver.who.int/gho/interactive_charts/mental_health/suicide_rates/atlas.html)
-
-![inline](slide4.png)
-
----
-
-## Global Suicide Scenario - [GBD Compare](http://vizhub.healthdata.org/gbd-compare/)
-
-![inline](female.png)
-![inline](male.png)
 
 ---
 
@@ -62,20 +59,6 @@ autoscale: true
 
 ---
 
-![fit](slide9.png)
-
----
-
-## Determinants associated with increased risk of suicide
-
-- Psychosocial
-    1. Family history
-    2. Family violence
-    3. Social involvemet with suicide attempters
-    4. Feeling repression and lack of expression
-
----
-
 ## Determinants associated with increased risk of suicide
 
 * Life events
@@ -95,18 +78,14 @@ autoscale: true
     * Depression or mental illness symptoms
         * Suicide = OR 2.20 (CI 95% 1.05; 4.60)
         * Self-Harm = OR 2.63 (CI 95% 1.72; 4.04)
-    * History of psychiatric illness
+    * History of psychiatric illness - mental health
         * Self-Harm = OR 3.46 (CI 95% 2.26; 5.30)
-    * Substance use
+    * Substance use and alcohol use
         * Suicide (depression) = OR 2.17 (CI 95% 1.77; 2.66)
     * Prior attempt/self-harm
         * Suicide = OR 4.84 (CI 95% 3.26; 7.20) / depression
 
 ![right fit](slide12.png)
-
----
-
-![fit](slide13.png)
 
 ---
 
@@ -122,15 +101,7 @@ autoscale: true
 
 ---
 
-![fit](slide16.png)
-
----
-
-![fit](slide17.jpeg)
-
----
-
-![fit](Picture1.png)
+![fit](intro1.png)
 
 ---
 
@@ -150,17 +121,7 @@ autoscale: true
 
 ---
 
-### [fit] Crisis of meaning
-
-#### [fit] **Identity /  Autonomy / Emancipation**
-
----
-
 # [fit] Signs and measurements
-
----
-
-![fit](slide19.png)
 
 ---
 
@@ -184,9 +145,9 @@ autoscale: true
 
 ![inline fit](BHS.png)
 
----
+<!-- ---
 
-# [fit] BREAK!!!!!
+# [fit] BREAK!!!!! -->
 
 ---
 
@@ -217,22 +178,82 @@ autoscale: true
 
 ---
 
-## Prevention initiatives
+# Global Suicide Scenario - [Map](http://gamapserver.who.int/gho/interactive_charts/mental_health/suicide_rates/atlas.html)
 
-![fit](https://www.youtube.com/watch?v=D1QoyTmeAYw)
+![inline](slide4.png)
+
+---
+
+## Global Suicide Scenario - [GBD Compare - Female](http://vizhub.healthdata.org/gbd-compare/)
+
+![inline](female.png)
+
+---
+
+## Global Suicide Scenario - [GBD Compare - Male](http://vizhub.healthdata.org/gbd-compare/)
+
+![inline](male.png)
+
+---
+
+## Global Suicide Scenario - [MH and Substance use](http://vizhub.healthdata.org/gbd-compare/)
+
+![inline](meta11.png)
+
+---
+
+## Global Suicide Scenario - [MH and Substance use](http://vizhub.healthdata.org/gbd-compare/)
+
+![inline](mental22.png)
+
+---
+
+## Global Suicide Scenario - [Lethality](http://vizhub.healthdata.org/gbd-compare/)
+
+![inline](mh1.png)
+
+---
+
+## Global Suicide Scenario - [Lethality](http://vizhub.healthdata.org/gbd-compare/)
+
+![inline](mh2.png)
+
+
+---
+
+# Prevention initiatives
+
+![inline](lancet.png)
 
 ---
 
 ## Prevention initiatives
 
+* Lethality
+
+* Medication
+
 * Therapeutic approaches
 
 * Lethality
-    * Decline in lethality is a decline in suicide
 
 * Social support
-    * [Social media](http://www.eiconline.org/teamup/wp-content/files/teamup-mental-health-social-media-guidelines.pdf)
-    * [Lifeline](http://www.suicidepreventionlifeline.org/about/overview.aspx)
+
+* Media
+
+* Internet and web services
+
+* Screening and gate keeping
+
+
+---
+
+## Prevention initiatives - Lethality
+
+* Availability of firearms at home - OR 3.24 (2.41-4.40)
+* Mixed results regarding mortality
+* Restriction to access to pesticides in Sri  Lanka and India
+* Restriction to medication
 
 ---
 
@@ -244,27 +265,25 @@ autoscale: true
     1. Skill-based treatment
     1. Mental and emotion regulation training
     1. Attachment-based family therapy
-    1. Cognitibe and/or behavioral, analytic of dialetic
+    1. *Cognitibe and/or behavioral, analytic of dialetic*
 
 ### **Any one! Just DO IT!**
 
 ---
 
-## Prevention initiatives - Therapeutic
+## Prevention initiatives - Psychotherapeutic
 
-* Instrumental
-    1. Readmission flexibility
-    2. Family intervention
-    3. Compliance enhancement and disposition planing
-    4. Youth based intervention
-
-### **Contigency Plan**
+![inline](slide25a.jpeg)
 
 ---
 
-## Prevention initiatives - Therapeutic
+## Prevention initiatives - Social support
 
-![inline](slide25a.jpeg)
+    1. Readmission flexibility
+    2. Family intervention
+    3. Compliance enhancement and disposition planing
+    4. *School-Youth based intervention*
+    5. *Follow-up care*
 
 ---
 
@@ -274,11 +293,53 @@ autoscale: true
 
 ---
 
-## Prevention initiatives - Lethality
+## Other interventions
 
-![inline](slide27.png)
+* Media - bidirectional effect
+
+* Internet and web-bases - lack of studies
+
+* Gate keeper training and screenings
 
 ---
+
+# Self-Injurious Behavior Effective Interventions: A Systematic Review and Meta-Analysis
+
+---
+
+## Suicide prevention initiatives in LMIC
+
+![inline](meta0.png)
+
+---
+
+## Suicide prevention initiatives in LMIC
+
+![inline](meta1.png)
+
+---
+
+## Suicide prevention initiatives in LMIC
+
+![inline](meta2.png)
+
+---
+
+## Suicide prevention initiatives in LMIC
+
+![inline](meta3.png)
+
+---
+
+## Suicide prevention initiatives in LMIC
+
+![inline](meta4.png)
+
+---
+
+## Thank you
+
+<!-- ---
 
 ## Study cases - Case 1
 
@@ -322,7 +383,7 @@ autoscale: true
     - Family
     - Education status
     - Socio Economic Status
-
+ -->
 
 <!-- 1. F
 2.  T
